@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 253,
     "versionPublish": "4.5.2",
@@ -551,7 +551,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -619,7 +619,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -666,7 +666,7 @@
             "showText": false,
             "showButtons": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -722,7 +722,7 @@
             "overlayColor": "#222222",
             "overlayOpacity": "0.3"
           },
-          "title": "<a href=\"reabilitaçãodecozinha.html\" class=\"text-white\">REABILITAÇÃO DE COZINHA</a><br><i style=\"font-weight: normal;\">KITCHEN RENOVATION</i>",
+          "title": "<a href=\"page2.html\" class=\"text-white\">REABILITAÇÃO DE COZINHA</a><br><i style=\"font-weight: normal;\">KITCHEN RENOVATION</i>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRY FOR FREE</a>",
           "_tags": [
@@ -803,7 +803,7 @@
             "overlayColor": "#222222",
             "overlayOpacity": "0.3"
           },
-          "title": "<a href=\"reabilitaçãodeespaçoexterior.html\" class=\"text-white\">REABILITAÇÃO DE ESPAÇO EXTERIOR</a><br><i style=\"font-weight: normal;\">LANDSCAPING</i>",
+          "title": "<a href=\"page3.html\" class=\"text-white\">REABILITAÇÃO DE ESPAÇO EXTERIOR</a><br><i style=\"font-weight: normal;\">LANDSCAPING</i>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
           "_tags": [
@@ -884,7 +884,7 @@
             "overlayColor": "#222222",
             "overlayOpacity": "0.3"
           },
-          "title": "<a href=\"renovaçãodevestíbulo.html\" class=\"text-white\">RENOVAÇÃO DE VESTÍBULO</a><br><i style=\"font-weight: normal;\">ENTRANCE RENOVATION</i>",
+          "title": "<a href=\"page4.html\" class=\"text-white\">RENOVAÇÃO DE VESTÍBULO</a><br><i style=\"font-weight: normal;\">ENTRANCE RENOVATION</i>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VER PROJECTO<br>GO TO PROJECT<br></a>",
           "_tags": [
@@ -937,7 +937,7 @@
             ".mbr-header .mbr-header__text": {
               "color": "#ffffff",
               "text-align": "left",
-              "font-size": "23px"
+              "font-size": "22px"
             },
             ".mbr-article": {
               "color": "#252525"
@@ -954,7 +954,7 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotomontagem-espao-pblico.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/vista-final.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -966,14 +966,14 @@
             "overlayColor": "#222222",
             "overlayOpacity": "0.3"
           },
-          "title": "<a href=\"largodafeiradamalveira.html\" class=\"text-white\">LARGO DA FEIRA DA MALVEIRA</a>\n<div></div><div><i style=\"font-weight: normal;\">\nMALVEIRA'S MARKET SQUARE TODAY</i></div>",
+          "title": "<a href=\"page5.html\" class=\"text-white\">REMODELAÇÃO DE COZINHA</a>\n<div><i style=\"font-weight: normal;\">KITCHEN REFURBISHMENT</i></div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-69"
+          "_anchor": "msg-box2-6g"
         },
         {
           "_inherit": "msg-box1",
@@ -1048,7 +1048,7 @@
             "overlayColor": "#222222",
             "overlayOpacity": "0.3"
           },
-          "title": "<a href=\"mercadodesantaclara.html\" class=\"text-white\">MERCADO DE SANTA CLARA</a>\n<div><i style=\"font-weight: normal;\">SANTA CLARA'S MARKET</i></div>",
+          "title": "<a href=\"page6.html\" class=\"text-white\">MERCADO DE SANTA CLARA</a>\n<div><i style=\"font-weight: normal;\">SANTA CLARA'S MARKET</i></div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
           "_tags": [
@@ -1101,7 +1101,7 @@
             ".mbr-header .mbr-header__text": {
               "color": "#ffffff",
               "text-align": "left",
-              "font-size": "22px"
+              "font-size": "23px"
             },
             ".mbr-article": {
               "color": "#252525"
@@ -1118,7 +1118,7 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/vista-final.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotomontagem-espao-pblico.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1130,14 +1130,14 @@
             "overlayColor": "#222222",
             "overlayOpacity": "0.3"
           },
-          "title": "<a href=\"cozinha.html\" class=\"text-white\">REMODELAÇÃO DE COZINHA</a>\n<div><i style=\"font-weight: normal;\">KITCHEN REFURBISHMENT</i></div>",
+          "title": "<a href=\"page7.html\" class=\"text-white\">LARGO DA FEIRA DA MALVEIRA</a>\n<div></div><div><i style=\"font-weight: normal;\">\nMALVEIRA'S MARKET SQUARE TODAY</i></div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-6g"
+          "_anchor": "msg-box2-69"
         }
       ]
     },
@@ -1295,7 +1295,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -1860,7 +1860,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -2292,7 +2292,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -2725,7 +2725,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -3093,7 +3093,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -3567,7 +3567,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -4124,7 +4124,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -4378,7 +4378,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -4603,7 +4603,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
