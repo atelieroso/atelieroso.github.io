@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 253,
     "versionPublish": "4.5.2",
@@ -585,7 +585,7 @@
         }
       ]
     },
-    "projectos.html": {
+    "page1.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "PROJECTOS",
@@ -1141,7 +1141,7 @@
         }
       ]
     },
-    "reabilitaçãodecozinha.html": {
+    "page2.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "REABILITAÇÃO DE COZINHA",
@@ -1710,7 +1710,7 @@
         }
       ]
     },
-    "reabilitaçãodeespaçoexterior.html": {
+    "page3.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "REABILITAÇÃO DE ESPAÇO EXTERIOR",
@@ -2162,7 +2162,7 @@
         }
       ]
     },
-    "renovaçãodevestíbulo.html": {
+    "page4.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "RENOVAÇÃO DE VESTÍBULO",
@@ -2594,7 +2594,7 @@
         }
       ]
     },
-    "cozinha.html": {
+    "page5.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "COZINHA",
@@ -2993,7 +2993,7 @@
         }
       ]
     },
-    "mercadodesantaclara.html": {
+    "page6.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "MERCADO DE SANTA CLARA",
@@ -3464,7 +3464,7 @@
         }
       ]
     },
-    "largodafeiradamalveira.html": {
+    "page7.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "LARGO DA FEIRA DA MALVEIRA",
@@ -3922,7 +3922,7 @@
         }
       ]
     },
-    "sobre.html": {
+    "page8.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "SOBRE",
@@ -4158,7 +4158,7 @@
         }
       ]
     },
-    "bio.html": {
+    "page9.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "BIO",
@@ -4412,7 +4412,7 @@
         }
       ]
     },
-    "contacto.html": {
+    "page10.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "CONTACTO",
