@@ -960,16 +960,23 @@ H1 {
 #contacts3-24 STRONG {
   color: #ffffff;
 }
+#contacts3-24 UL {
+  font-size: 12px;
+}
+#contacts3-24 .btn {
+  font-size: 10px;
+}
 #social-buttons2-29 .mbr-header__text {
   color: #ffffff;
 }
 #footer1-54 B {
   font-family: 'Roboto', sans-serif;
-  font-size: 13px;
+  font-size: 9px;
   color: #ffffff;
 }
 #footer1-54 P {
   color: #cccccc;
+  font-size: 9px;
 }
 #msg-box2-6y .mbr-header .mbr-header__text {
   color: #252525;
