@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Atelier OSO",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 261,
+    "uniqCompNum": 262,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -464,7 +464,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -479,7 +479,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "page3.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -607,6 +607,44 @@
             "showText": false,
             "showButtons": false,
             "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-79"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -643,7 +681,8 @@
             ".mbr-article I": {
               "font-size": "15px",
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#000000"
             }
           },
           "_params": {
@@ -662,10 +701,10 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.6"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
           },
-          "title": "<a href=\"page2.html\" class=\"text-white\">REABILITAÇÃO DE COZINHA</a><br>",
+          "title": "<a href=\"page2.html\" class=\"text-black\">REABILITAÇÃO DE COZINHA</a><br>",
           "text": "<i>K I T C H E N &nbsp;R E N O V A T I O N</i>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
@@ -701,7 +740,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -716,7 +755,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "page3.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -781,7 +820,8 @@
               "color": "#fff"
             },
             ".mbr-article I": {
-              "font-size": "15px"
+              "font-size": "15px",
+              "color": "#222222"
             }
           },
           "_params": {
@@ -800,10 +840,10 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.6"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
           },
-          "title": "<a href=\"page3.html\" class=\"text-white\">REABILITAÇÃO DE ESPAÇO EXTERIOR</a>",
+          "title": "<a href=\"page3.html\" class=\"text-black\">REABILITAÇÃO DE ESPAÇO EXTERIOR</a>",
           "text": "<i>L A N D S C A P I N G</i>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
@@ -859,6 +899,9 @@
             ".mbr-article": {
               "color": "#fff",
               "font-size": "15px"
+            },
+            ".mbr-article I": {
+              "color": "#222222"
             }
           },
           "_params": {
@@ -877,10 +920,10 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.6"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
           },
-          "title": "<a href=\"page4.html\" class=\"text-white\">RENOVAÇÃO DE VESTÍBULO</a>",
+          "title": "<a href=\"page4.html\" class=\"text-black\">RENOVAÇÃO DE VESTÍBULO</a>",
           "text": "<i>E N T R A N C E &nbsp;R E N O V A T I O N</i>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
@@ -936,6 +979,9 @@
             ".mbr-article": {
               "color": "#fff",
               "font-size": "15px"
+            },
+            ".mbr-article I": {
+              "color": "#222222"
             }
           },
           "_params": {
@@ -954,10 +1000,10 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
+            "overlayColor": "#ffffff",
             "overlayOpacity": "0.6"
           },
-          "title": "<a href=\"page5.html\" class=\"text-white\">REMODELAÇÃO DE COZINHA</a>",
+          "title": "<a href=\"page5.html\" class=\"text-black\">REMODELAÇÃO DE COZINHA</a>",
           "text": "<i>K I T C H E N &nbsp;R E F U R B I S H M E N T</i>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
@@ -1011,7 +1057,7 @@
               "font-size": "22px"
             },
             ".mbr-article": {
-              "color": "#fff",
+              "color": "#222222",
               "font-size": "15px"
             }
           },
@@ -1031,10 +1077,10 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.6"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.4"
           },
-          "title": "<a href=\"page6.html\" class=\"text-white\">MERCADO DE SANTA CLARA</a>",
+          "title": "<a href=\"page6.html\" class=\"text-black\">MERCADO DE SANTA CLARA</a>",
           "text": "S A N T A &nbsp;C L A R A ' S &nbsp;M A R K E T",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
@@ -1090,6 +1136,9 @@
             ".mbr-article": {
               "color": "#fff",
               "font-size": "15px"
+            },
+            ".mbr-article I": {
+              "color": "#222222"
             }
           },
           "_params": {
@@ -1108,10 +1157,10 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
+            "overlayColor": "#ffffff",
             "overlayOpacity": "0.6"
           },
-          "title": "<a href=\"page7.html\" class=\"text-white\">LARGO DA FEIRA DA MALVEIRA</a>",
+          "title": "<a href=\"page7.html\" class=\"text-black\">LARGO DA FEIRA DA MALVEIRA</a>",
           "text": "<i>M A L V E I R A ' S &nbsp;M A R K E T &nbsp;S Q U A R E</i>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
@@ -1276,7 +1325,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -1291,7 +1340,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "page3.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1822,7 +1871,9 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#ffffff"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -1841,7 +1892,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -1856,7 +1907,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "page3.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2273,7 +2324,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -2288,7 +2339,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "page3.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2706,7 +2757,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -2721,7 +2772,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "page3.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -3074,7 +3125,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -3089,7 +3140,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "page3.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -3548,7 +3599,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -3563,7 +3614,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "page3.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -4105,7 +4156,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -4120,7 +4171,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "page3.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -4359,7 +4410,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -4374,7 +4425,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "page3.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -4591,7 +4642,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
@@ -4606,7 +4657,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "page3.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
