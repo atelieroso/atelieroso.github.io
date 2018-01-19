@@ -492,15 +492,16 @@ H1 {
 #msg-box2-6c .mbr-article {
   color: #252525;
 }
-#msg-box2-68 .mbr-header .mbr-header__text {
+#msg-box2-71 .mbr-header .mbr-header__text {
   color: #ffffff;
   text-align: left;
   font-size: 22px;
 }
-#msg-box2-68 .mbr-article {
+#msg-box2-71 .mbr-article {
   color: #252525;
 }
-#msg-box2-68 .mbr-header .mbr-header__text I {
+#msg-box2-71 .mbr-header .mbr-header__text DIV {
+  text-align: left;
   font-size: 13px;
 }
 #msg-box2-6b .mbr-header .mbr-header__text {

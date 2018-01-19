@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Atelier OSO",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 253,
+    "uniqCompNum": 254,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -803,7 +803,7 @@
             "overlayColor": "#222222",
             "overlayOpacity": "0.3"
           },
-          "title": "<a href=\"page3.html\" class=\"text-white\">REABILITAÇÃO DE ESPAÇO EXTERIOR</a><br><i style=\"font-weight: normal;\">LANDSCAPING</i>",
+          "title": "REABILITAÇÃO DE ESPAÇO EXTERIOR<br><i style=\"font-weight: normal;\">LANDSCAPING</i>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
           "_tags": [
@@ -861,7 +861,8 @@
             ".mbr-article": {
               "color": "#252525"
             },
-            ".mbr-header .mbr-header__text I": {
+            ".mbr-header .mbr-header__text DIV": {
+              "text-align": "left",
               "font-size": "13px"
             }
           },
@@ -872,7 +873,7 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/paredes-2-800x532.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/paredes-2.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -884,14 +885,14 @@
             "overlayColor": "#222222",
             "overlayOpacity": "0.3"
           },
-          "title": "<a href=\"page4.html\" class=\"text-white\">RENOVAÇÃO DE VESTÍBULO</a><br><i style=\"font-weight: normal;\">ENTRANCE RENOVATION</i>",
+          "title": "<a href=\"page4.html\" class=\"text-white\">RENOVAÇÃO DE VESTÍBULO</a><br><div></div><div><i style=\"font-weight: normal;\">\nENTRANCE RENOVATION</i></div>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VER PROJECTO<br>GO TO PROJECT<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-68"
+          "_anchor": "msg-box2-71"
         },
         {
           "_inherit": "msg-box1",
