@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Atelier OSO",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 254,
+    "uniqCompNum": 261,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -16,7 +16,7 @@
         "#dbd4ba"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/5.png",
+    "favicon": "@PROJECT_PATH@/assets/images/redondo-pequeno.png",
     "noImageResize": "true",
     "path": "@PROJECT_PATH@"
   },
@@ -593,6 +593,88 @@
       },
       "components": [
         {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-6d"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "font-size": "22px"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "text-align": "left"
+            },
+            ".mbr-article I": {
+              "font-size": "15px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fachada-4.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
+          },
+          "title": "<a href=\"page2.html\" class=\"text-white\">REABILITAÇÃO DE COZINHA</a><br>",
+          "text": "<i>K I T C H E N &nbsp;R E N O V A T I O N</i>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-72"
+        },
+        {
           "_styles": {
             ".mbr-brand__name": {
               "font-size": "16px"
@@ -690,103 +772,21 @@
           "_anchor": "msg-box2-6x"
         },
         {
-          "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#ffffff",
+              "color": "#fff",
               "font-size": "22px"
             },
             ".mbr-article": {
-              "color": "#252525"
+              "color": "#fff"
             },
-            ".mbr-header .mbr-header__text I": {
-              "font-size": "13px"
+            ".mbr-article I": {
+              "font-size": "15px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fachada-4.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222222",
-            "overlayOpacity": "0.3"
-          },
-          "title": "<a href=\"page2.html\" class=\"text-white\">REABILITAÇÃO DE COZINHA</a><br><i style=\"font-weight: normal;\">KITCHEN RENOVATION</i>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRY FOR FREE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-62"
-        },
-        {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#252525"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-6d"
-        },
-        {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#ffffff",
-              "font-size": "22px"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            },
-            ".mbr-header .mbr-header__text I": {
-              "font-size": "13px",
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -794,23 +794,23 @@
             "bgImage": "@PROJECT_PATH@/assets/images/jardim-2.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#3C3C3C",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222222",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
           },
-          "title": "REABILITAÇÃO DE ESPAÇO EXTERIOR<br><i style=\"font-weight: normal;\">LANDSCAPING</i>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "title": "<a href=\"page3.html\" class=\"text-white\">REABILITAÇÃO DE ESPAÇO EXTERIOR</a>",
+          "text": "<i>L A N D S C A P I N G</i>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-67"
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-73"
         },
         {
           "_inherit": "msg-box1",
@@ -851,24 +851,19 @@
           "_anchor": "msg-box2-6c"
         },
         {
-          "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#ffffff",
-              "text-align": "left",
+              "color": "#fff",
               "font-size": "22px"
             },
             ".mbr-article": {
-              "color": "#252525"
-            },
-            ".mbr-header .mbr-header__text DIV": {
-              "text-align": "left",
-              "font-size": "13px"
+              "color": "#fff",
+              "font-size": "15px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -876,23 +871,23 @@
             "bgImage": "@PROJECT_PATH@/assets/images/paredes-2.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#3C3C3C",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222222",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
           },
-          "title": "<a href=\"page4.html\" class=\"text-white\">RENOVAÇÃO DE VESTÍBULO</a><br><div></div><div><i style=\"font-weight: normal;\">\nENTRANCE RENOVATION</i></div>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "title": "<a href=\"page4.html\" class=\"text-white\">RENOVAÇÃO DE VESTÍBULO</a>",
+          "text": "<i>E N T R A N C E &nbsp;R E N O V A T I O N</i>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-71"
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-74"
         },
         {
           "_inherit": "msg-box1",
@@ -933,24 +928,19 @@
           "_anchor": "msg-box2-6b"
         },
         {
-          "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#ffffff",
-              "text-align": "left",
+              "color": "#fff",
               "font-size": "22px"
             },
             ".mbr-article": {
-              "color": "#252525"
-            },
-            ".mbr-header .mbr-header__text DIV": {
-              "text-align": "left",
-              "font-size": "13px"
+              "color": "#fff",
+              "font-size": "15px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -958,23 +948,23 @@
             "bgImage": "@PROJECT_PATH@/assets/images/vista-final.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#3C3C3C",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222222",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
           },
-          "title": "<a href=\"page5.html\" class=\"text-white\">REMODELAÇÃO DE COZINHA</a>\n<div><i style=\"font-weight: normal;\">KITCHEN REFURBISHMENT</i></div>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "title": "<a href=\"page5.html\" class=\"text-white\">REMODELAÇÃO DE COZINHA</a>",
+          "text": "<i>K I T C H E N &nbsp;R E F U R B I S H M E N T</i>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-6g"
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-76"
         },
         {
           "_inherit": "msg-box1",
@@ -1015,24 +1005,19 @@
           "_anchor": "msg-box2-6e"
         },
         {
-          "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#ffffff",
-              "text-align": "left",
+              "color": "#fff",
               "font-size": "22px"
             },
             ".mbr-article": {
-              "color": "#252525"
-            },
-            ".mbr-header .mbr-header__text DIV": {
-              "text-align": "left",
-              "font-size": "13px"
+              "color": "#fff",
+              "font-size": "15px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -1040,23 +1025,23 @@
             "bgImage": "@PROJECT_PATH@/assets/images/imagem-sntese-1.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#3C3C3C",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222222",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
           },
-          "title": "<a href=\"page6.html\" class=\"text-white\">MERCADO DE SANTA CLARA</a>\n<div><i style=\"font-weight: normal;\">SANTA CLARA'S MARKET</i></div>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "title": "<a href=\"page6.html\" class=\"text-white\">MERCADO DE SANTA CLARA</a>",
+          "text": "S A N T A &nbsp;C L A R A ' S &nbsp;M A R K E T",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-6a"
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-78"
         },
         {
           "_inherit": "msg-box1",
@@ -1097,24 +1082,19 @@
           "_anchor": "msg-box2-6f"
         },
         {
-          "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#ffffff",
-              "text-align": "left",
-              "font-size": "23px"
+              "color": "#fff",
+              "font-size": "22px"
             },
             ".mbr-article": {
-              "color": "#252525"
-            },
-            ".mbr-header .mbr-header__text DIV": {
-              "text-align": "left",
-              "font-size": "13px"
+              "color": "#fff",
+              "font-size": "15px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -1122,23 +1102,23 @@
             "bgImage": "@PROJECT_PATH@/assets/images/fotomontagem-espao-pblico.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#3C3C3C",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222222",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
           },
-          "title": "<a href=\"page7.html\" class=\"text-white\">LARGO DA FEIRA DA MALVEIRA</a>\n<div></div><div><i style=\"font-weight: normal;\">\nMALVEIRA'S MARKET SQUARE TODAY</i></div>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "title": "<a href=\"page7.html\" class=\"text-white\">LARGO DA FEIRA DA MALVEIRA</a>",
+          "text": "<i>M A L V E I R A ' S &nbsp;M A R K E T &nbsp;S Q U A R E</i>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-69"
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-77"
         }
       ]
     },
