@@ -403,16 +403,6 @@ undefined {
 }
 }
 
-#slider-11 {
-P {
-  font-size: 13px;
-  text-align: left;
-}
-H1 {
-  text-align: left;
-}
-}
-
 #menu-u {
 .mbr-brand__name {
   font-size: 16px;
@@ -432,6 +422,16 @@ H1 {
 .mbr-navbar__items a {
   font-size: 9px;
   font-family: 'Oxygen', sans-serif;
+}
+}
+
+#slider-11 {
+P {
+  font-size: 13px;
+  text-align: left;
+}
+H1 {
+  text-align: left;
 }
 }
 
