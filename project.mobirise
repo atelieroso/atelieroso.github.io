@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Atelier OSO",
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 270,
+    "uniqCompNum": 271,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
