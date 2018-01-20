@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 270,
     "versionPublish": "4.5.2",
@@ -3918,7 +3918,7 @@
             }
           },
           "title1": "ATELIER OSO",
-          "caption1": "Foi fundado em 2017 pelo arquiteto Filipe Raposo Cardoso após adquirir experiência profissional em vários ateliers em Lisboa e Londres.<br><br>",
+          "caption1": "Foi fundado em 2017 pelo arquiteto Filipe Raposo Cardoso após adquirir experiência profissional em vários ateliers em Lisboa e Londres.<br><br><i>Founded in 2017 by architect Filipe Raposo Cardoso after professional experience in architectural practices in Lisbon and London.</i><br><br><br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -3937,8 +3937,8 @@
               "size": 0
             }
           },
-          "title2": "O QUE FAZEMOS?",
-          "caption2": "Desenvolvemos estudos e projetos de arquitetura em todas as fases (estudo prévio, projecto base e licenciamento, projecto de execução e acompanhamento de obra).&nbsp;<br><br>Identificamos e resolvemos problemas do espaço através da materialização do pensamento.<br><br>\n<br><br>\n<br><br>",
+          "title2": "O QUE FAZEMOS?<br><i style=\"font-weight: normal;\">what do we do?</i>",
+          "caption2": "Desenvolvemos estudos e projetos de arquitetura em todas as fases (estudo prévio, projecto base e licenciamento, projecto de execução e acompanhamento de obra). Identificamos e resolvemos problemas do espaço através da materialização do pensamento.<br><br><i>We deliver architectural studies and projects in all stages. \n<br>We identify problems related with spaces, by assessing the constraints and opportunities and put our thoughts towards the solution.</i><br><br>\n<br><br>\n<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -3957,8 +3957,8 @@
               "size": 0
             }
           },
-          "title3": "MOTIVAÇÃO",
-          "caption3": "Cada projeto começa sempre como algo novo e inquietante. E é essa inquietação que nos move.&nbsp;<br><br>Questionamos as soluções tendo em conta o lugar, o desejo do cliente, as condicionantes financeiras e desenvolvemos os projetos como se fossem para nós habitarmos. ",
+          "title3": "MOTIVAÇÃO<br><i style=\"font-weight: normal;\">motivation</i>",
+          "caption3": "Cada projeto começa sempre como algo novo e inquietante. E é essa inquietação que nos move. Questionamos as soluções tendo em conta o lugar, o desejo do cliente, as condicionantes financeiras e desenvolvemos os projetos como se fossem para nós habitarmos.<br><br><i>Each project begins as something new and&nbsp;disquieting. It is the disquietingness that moves us.<br>We questioned solutions considering the place, client's desire and economic constrains. We develop the project as if we would live in it.</i>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -3977,8 +3977,8 @@
               "size": 0
             }
           },
-          "title4": "GLOBAL E LOCAL",
-          "caption4": "Acreditamos que os princípios de arquitetura são universais e o projeto responde às especificidades dos diferentes locais, culturas, tradições e pessoas. \n<br><br>",
+          "title4": "GLOBAL E LOCAL<br><span style=\"font-weight: normal;\"><i>global and local</i></span>",
+          "caption4": "Acreditamos que os princípios de arquitetura são universais e o projeto responde às especificidades dos diferentes locais, culturas, tradições e pessoas. \n<br><br><i>We trust that architecture fundamentals are universal and the project acts accordingly to the specificity of place, culture, tradition and people.</i>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -3997,8 +3997,8 @@
               "size": 0
             }
           },
-          "title5": "COMO FAZEMOS?",
-          "caption5": "Cada cliente apresenta-nos uma intenção. O nosso objetivo é identificar o problema e resolvê-lo, indo ao encontro da intenção apresentada. <br><br>O cliente faz parte do processo. <br><br>Privilegiamos o trabalho manual através de desenhos, ilustrações e maquetes de modo a facilitar a compreensão das soluções desenvolvidas, antecipando desafios que poderão surgir em obra. Ao mesmo tempo utilizamos computadores para produzir informação técnica mais rigorosa e organizada para construção.",
+          "title5": "COMO FAZEMOS?<br><i style=\"font-weight: normal;\">how do we do?</i>",
+          "caption5": "Cada cliente apresenta-nos uma intenção. O nosso objetivo é identificar o problema e resolvê-lo, indo ao encontro da intenção apresentada. O cliente faz parte do processo. Privilegiamos o trabalho manual através de desenhos, ilustrações e maquetes de modo a facilitar a compreensão das soluções desenvolvidas, antecipando desafios que poderão surgir em obra. Ao mesmo tempo utilizamos computadores para produzir informação técnica mais rigorosa e organizada para construção.<br><br><i>Each client brings to us an intention. Our aim is to identify the problem and solve it moving towards the client's intention.\n<br>We develop our work with hand-crafted drawings, illustrations and architectural models. Along side with computers we produce accurate and neat technical information for construction.</i><br>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
