@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Atelier OSO",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 264,
+    "uniqCompNum": 270,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -593,58 +593,16 @@
       },
       "components": [
         {
-          "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#252525"
+              "color": "#000000",
+              "font-size": "20px"
             },
             ".mbr-article": {
-              "color": "#252525"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-6d"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#fff",
-              "font-size": "22px"
-            },
-            ".mbr-article": {
-              "color": "#fff",
-              "text-align": "left"
+              "color": "#000000"
             },
             ".mbr-article I": {
-              "font-size": "15px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "color": "#252525"
+              "font-size": "14px"
             }
           },
           "_params": {
@@ -666,14 +624,14 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.6"
           },
-          "title": "<a href=\"page2.html\" class=\"text-black\">REABILITAÇÃO DE COZINHA</a><br>",
-          "text": "<i>K I T C H E N &nbsp;R E N O V A T I O N</i>",
+          "title": "<a href=\"page2.html\" class=\"text-black\">REABILITAÇÃO DE COZINHA</a>",
+          "text": "<i>KITCHEN RENOVATION</i>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-72"
+          "_anchor": "msg-box1-7c"
         },
         {
           "_styles": {
@@ -775,15 +733,12 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#fff",
-              "font-size": "22px"
+              "color": "#000000",
+              "font-size": "20px"
             },
             ".mbr-article": {
-              "color": "#fff"
-            },
-            ".mbr-article I": {
-              "font-size": "15px",
-              "color": "#252525"
+              "color": "#000000",
+              "font-size": "15px"
             }
           },
           "_params": {
@@ -803,16 +758,16 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": 0.5
           },
           "title": "<a href=\"page3.html\" class=\"text-black\">REABILITAÇÃO DE ESPAÇO EXTERIOR</a>",
-          "text": "<i>L A N D S C A P I N G</i>",
+          "text": "<i>LANDSCAPING</i>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-73"
+          "_anchor": "msg-box1-7d"
         },
         {
           "_inherit": "msg-box1",
@@ -855,15 +810,12 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#fff",
-              "font-size": "22px"
+              "color": "#000000",
+              "font-size": "20px"
             },
             ".mbr-article": {
-              "color": "#fff",
+              "color": "#000000",
               "font-size": "15px"
-            },
-            ".mbr-article I": {
-              "color": "#252525"
             }
           },
           "_params": {
@@ -883,16 +835,16 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": 0.5
           },
           "title": "<a href=\"page4.html\" class=\"text-black\">RENOVAÇÃO DE VESTÍBULO</a>",
-          "text": "<i>E N T R A N C E &nbsp;R E N O V A T I O N</i>",
+          "text": "<i>ENTRANCE RENOVATION</i>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-74"
+          "_anchor": "msg-box1-7e"
         },
         {
           "_inherit": "msg-box1",
@@ -935,15 +887,12 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#fff",
-              "font-size": "22px"
+              "color": "#000000",
+              "font-size": "20px"
             },
             ".mbr-article": {
-              "color": "#fff",
+              "color": "#000000",
               "font-size": "15px"
-            },
-            ".mbr-article I": {
-              "color": "#252525"
             }
           },
           "_params": {
@@ -963,16 +912,16 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
           "title": "<a href=\"page5.html\" class=\"text-black\">REMODELAÇÃO DE COZINHA</a>",
-          "text": "<i>K I T C H E N &nbsp;R E F U R B I S H M E N T</i>",
+          "text": "<i>KITCHEN REFURBISHMENT</i>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-76"
+          "_anchor": "msg-box1-7f"
         },
         {
           "_inherit": "msg-box1",
@@ -1015,15 +964,12 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#fff",
-              "font-size": "22px"
+              "color": "#000000",
+              "font-size": "20px"
             },
             ".mbr-article": {
-              "color": "#222222",
+              "color": "#000000",
               "font-size": "15px"
-            },
-            ".mbr-article I": {
-              "color": "#252525"
             }
           },
           "_params": {
@@ -1046,13 +992,13 @@
             "overlayOpacity": "0.3"
           },
           "title": "<a href=\"page6.html\" class=\"text-black\">MERCADO DE SANTA CLARA</a>",
-          "text": "<i>S A N T A &nbsp;C L A R A ' S &nbsp;M A R K E T</i>",
+          "text": "<i>SANTA CLARA'S MARKET</i>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-78"
+          "_anchor": "msg-box1-7g"
         },
         {
           "_inherit": "msg-box1",
@@ -1095,15 +1041,12 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#fff",
-              "font-size": "22px"
+              "color": "#000000",
+              "font-size": "20px"
             },
             ".mbr-article": {
-              "color": "#fff",
+              "color": "#000000",
               "font-size": "15px"
-            },
-            ".mbr-article I": {
-              "color": "#252525"
             }
           },
           "_params": {
@@ -1126,13 +1069,13 @@
             "overlayOpacity": "0.5"
           },
           "title": "<a href=\"page7.html\" class=\"text-black\">LARGO DA FEIRA DA MALVEIRA</a>",
-          "text": "<i>M A L V E I R A ' S &nbsp;M A R K E T &nbsp;S Q U A R E</i>",
+          "text": "MALVEIRA'S MARKET SQUARE",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-77"
+          "_anchor": "msg-box1-7h"
         }
       ]
     },
@@ -1838,9 +1781,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#ffffff"
             },
-            ".mbr-navbar__section": {
-              "background": "#ffffff"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -2010,7 +1951,7 @@
               "size": 0
             }
           },
-          "title3": "ÁREA DE CONSTRUÇÃO<br><i style=\"font-weight: normal;\">GEA</i><br><br><span style=\"font-weight: normal;\">30m2</span><br>",
+          "title3": "ÁREA DE CONSTRUÇÃO<br><i style=\"font-weight: normal;\">GEA</i><br><br><span style=\"font-weight: normal;\">485m2</span><br>",
           "caption3": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;30m2",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
@@ -3547,9 +3488,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#ffffff"
             },
-            ".mbr-navbar__section": {
-              "background": "#ffffff"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -3939,8 +3878,8 @@
             "showTitles": true,
             "showCaptions": true,
             "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "columns": 5,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",

@@ -436,25 +436,15 @@ H1 {
 }
 
 
-
-#msg-box2-6d .mbr-header .mbr-header__text {
-  color: #252525;
+#msg-box1-7c .mbr-header .mbr-header__text {
+  color: #000000;
+  font-size: 20px;
 }
-#msg-box2-6d .mbr-article {
-  color: #252525;
+#msg-box1-7c .mbr-article {
+  color: #000000;
 }
-#msg-box1-72 .mbr-header .mbr-header__text {
-  color: #fff;
-  font-size: 22px;
-}
-#msg-box1-72 .mbr-article {
-  color: #fff;
-  text-align: left;
-}
-#msg-box1-72 .mbr-article I {
-  font-size: 15px;
-  font-family: 'Roboto', sans-serif;
-  color: #252525;
+#msg-box1-7c .mbr-article I {
+  font-size: 14px;
 }
 #menu-l .mbr-brand__name {
   font-size: 16px;
@@ -479,16 +469,13 @@ H1 {
 #msg-box2-6x .mbr-article {
   color: #252525;
 }
-#msg-box1-73 .mbr-header .mbr-header__text {
-  color: #fff;
-  font-size: 22px;
+#msg-box1-7d .mbr-header .mbr-header__text {
+  color: #000000;
+  font-size: 20px;
 }
-#msg-box1-73 .mbr-article {
-  color: #fff;
-}
-#msg-box1-73 .mbr-article I {
+#msg-box1-7d .mbr-article {
+  color: #000000;
   font-size: 15px;
-  color: #252525;
 }
 #msg-box2-6c .mbr-header .mbr-header__text {
   color: #252525;
@@ -496,16 +483,13 @@ H1 {
 #msg-box2-6c .mbr-article {
   color: #252525;
 }
-#msg-box1-74 .mbr-header .mbr-header__text {
-  color: #fff;
-  font-size: 22px;
+#msg-box1-7e .mbr-header .mbr-header__text {
+  color: #000000;
+  font-size: 20px;
 }
-#msg-box1-74 .mbr-article {
-  color: #fff;
+#msg-box1-7e .mbr-article {
+  color: #000000;
   font-size: 15px;
-}
-#msg-box1-74 .mbr-article I {
-  color: #252525;
 }
 #msg-box2-6b .mbr-header .mbr-header__text {
   color: #252525;
@@ -513,16 +497,13 @@ H1 {
 #msg-box2-6b .mbr-article {
   color: #252525;
 }
-#msg-box1-76 .mbr-header .mbr-header__text {
-  color: #fff;
-  font-size: 22px;
+#msg-box1-7f .mbr-header .mbr-header__text {
+  color: #000000;
+  font-size: 20px;
 }
-#msg-box1-76 .mbr-article {
-  color: #fff;
+#msg-box1-7f .mbr-article {
+  color: #000000;
   font-size: 15px;
-}
-#msg-box1-76 .mbr-article I {
-  color: #252525;
 }
 #msg-box2-6e .mbr-header .mbr-header__text {
   color: #252525;
@@ -530,16 +511,13 @@ H1 {
 #msg-box2-6e .mbr-article {
   color: #252525;
 }
-#msg-box1-78 .mbr-header .mbr-header__text {
-  color: #fff;
-  font-size: 22px;
+#msg-box1-7g .mbr-header .mbr-header__text {
+  color: #000000;
+  font-size: 20px;
 }
-#msg-box1-78 .mbr-article {
-  color: #222222;
+#msg-box1-7g .mbr-article {
+  color: #000000;
   font-size: 15px;
-}
-#msg-box1-78 .mbr-article I {
-  color: #252525;
 }
 #msg-box2-6f .mbr-header .mbr-header__text {
   color: #252525;
@@ -547,16 +525,13 @@ H1 {
 #msg-box2-6f .mbr-article {
   color: #252525;
 }
-#msg-box1-77 .mbr-header .mbr-header__text {
-  color: #fff;
-  font-size: 22px;
+#msg-box1-7h .mbr-header .mbr-header__text {
+  color: #000000;
+  font-size: 20px;
 }
-#msg-box1-77 .mbr-article {
-  color: #fff;
+#msg-box1-7h .mbr-article {
+  color: #000000;
   font-size: 15px;
-}
-#msg-box1-77 .mbr-article I {
-  color: #252525;
 }
 
 
@@ -642,9 +617,6 @@ H1 {
   font-size: 16px;
 }
 #menu-4k.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
-}
-#menu-4k .mbr-navbar__section {
   background: #ffffff;
 }
 #menu-4k .mbr-navbar__hamburger {
@@ -829,9 +801,6 @@ H1 {
   font-size: 16px;
 }
 #menu-2t.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
-}
-#menu-2t .mbr-navbar__section {
   background: #ffffff;
 }
 #menu-2t .mbr-navbar__hamburger {
