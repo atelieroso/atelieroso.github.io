@@ -564,9 +564,6 @@ H1 {
 #menu-39.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
-#menu-39 .mbr-navbar__section {
-  background: #ffffff;
-}
 #menu-39 .mbr-navbar__hamburger {
   color: #ffffff;
 }
@@ -846,17 +843,13 @@ H1 {
 }
 
 
-#content4-5z P {
+#content4-7j P {
   font-size: 12px;
-  text-align: left;
 }
-#content4-5z .mbr-section__col .mbr-header__text {
-  text-align: left;
+#content4-7j .mbr-section__col .mbr-header__text {
   color: #777777;
+  text-align: left;
   font-size: 13px;
-}
-#content4-5z .mbr-section-title .mbr-header__text {
-  text-align: right;
 }
 #menu-s .mbr-brand__name {
   font-size: 16px;

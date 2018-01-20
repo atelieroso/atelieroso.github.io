@@ -3,7 +3,7 @@
     "name": "Atelier OSO",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 271,
+    "uniqCompNum": 272,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -1214,9 +1214,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#ffffff"
             },
-            ".mbr-navbar__section": {
-              "background": "#ffffff"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -3878,8 +3876,8 @@
             "showTitles": true,
             "showCaptions": true,
             "showButtons": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "columns": 5,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -3918,7 +3916,7 @@
             }
           },
           "title1": "ATELIER OSO",
-          "caption1": "Foi fundado em 2017 pelo arquiteto Filipe Raposo Cardoso após adquirir experiência profissional em vários ateliers em Lisboa e Londres.<br><br><i>Founded in 2017 by architect Filipe Raposo Cardoso after professional experience in architectural practices in Lisbon and London.</i><br><br><br><br>",
+          "caption1": "Foi fundado em 2017 pelo arquiteto Filipe Raposo Cardoso após adquirir experiência profissional em vários ateliers em Lisboa e Londres.\n<br>\n<br><i>Founded in 2017 by architect Filipe Raposo Cardoso after professional experience in architectural practices in Lisbon and London.</i>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -3938,7 +3936,7 @@
             }
           },
           "title2": "O QUE FAZEMOS?<br><i style=\"font-weight: normal;\">what do we do?</i>",
-          "caption2": "Desenvolvemos estudos e projetos de arquitetura em todas as fases (estudo prévio, projecto base e licenciamento, projecto de execução e acompanhamento de obra). Identificamos e resolvemos problemas do espaço através da materialização do pensamento.<br><br><i>We deliver architectural studies and projects in all stages. \n<br>We identify problems related with spaces, by assessing the constraints and opportunities and put our thoughts towards the solution.</i><br><br>\n<br><br>\n<br><br>",
+          "caption2": "Desenvolvemos estudos e projetos de arquitetura em todas as fases (estudo prévio, projecto base e licenciamento, projecto de execução e acompanhamento de obra). Identificamos e resolvemos problemas do espaço através da materialização do pensamento.\n<br>\n<br><i>We deliver architectural studies and projects in all stages. \n<br>We identify problems related with spaces, by assessing the constraints and opportunities and put our thoughts towards the solution.</i>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -3958,7 +3956,7 @@
             }
           },
           "title3": "MOTIVAÇÃO<br><i style=\"font-weight: normal;\">motivation</i>",
-          "caption3": "Cada projeto começa sempre como algo novo e inquietante. E é essa inquietação que nos move. Questionamos as soluções tendo em conta o lugar, o desejo do cliente, as condicionantes financeiras e desenvolvemos os projetos como se fossem para nós habitarmos.<br><br><i>Each project begins as something new and&nbsp;disquieting. It is the disquietingness that moves us.<br>We questioned solutions considering the place, client's desire and economic constrains. We develop the project as if we would live in it.</i>",
+          "caption3": "Cada projeto começa sempre como algo novo e inquietante. E é essa inquietação que nos move. Questionamos as soluções tendo em conta o lugar, o desejo do cliente, as condicionantes financeiras e desenvolvemos os projetos como se fossem para nós habitarmos.\n<br>\n<br><i>Each project begins as something new and disquieting. It is the disquietingness that moves us.\n<br>We questioned solutions considering the place, client's desire and economic constrains. We develop the project as if we would live in it.</i>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -3977,8 +3975,8 @@
               "size": 0
             }
           },
-          "title4": "GLOBAL E LOCAL<br><span style=\"font-weight: normal;\"><i>global and local</i></span>",
-          "caption4": "Acreditamos que os princípios de arquitetura são universais e o projeto responde às especificidades dos diferentes locais, culturas, tradições e pessoas. \n<br><br><i>We trust that architecture fundamentals are universal and the project acts accordingly to the specificity of place, culture, tradition and people.</i>",
+          "title4": "GLOBAL AND LOCAL<br><i style=\"font-weight: normal;\">global and local</i>",
+          "caption4": "Acreditamos que os princípios de arquitetura são universais e o projeto responde às especificidades dos diferentes locais, culturas, tradições e pessoas. \n<br>\n<br><i>We trust that architecture fundamentals are universal and the project acts accordingly to the specificity of place, culture, tradition and people.</i>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -3997,8 +3995,8 @@
               "size": 0
             }
           },
-          "title5": "COMO FAZEMOS?<br><i style=\"font-weight: normal;\">how do we do?</i>",
-          "caption5": "Cada cliente apresenta-nos uma intenção. O nosso objetivo é identificar o problema e resolvê-lo, indo ao encontro da intenção apresentada. O cliente faz parte do processo. Privilegiamos o trabalho manual através de desenhos, ilustrações e maquetes de modo a facilitar a compreensão das soluções desenvolvidas, antecipando desafios que poderão surgir em obra. Ao mesmo tempo utilizamos computadores para produzir informação técnica mais rigorosa e organizada para construção.<br><br><i>Each client brings to us an intention. Our aim is to identify the problem and solve it moving towards the client's intention.\n<br>We develop our work with hand-crafted drawings, illustrations and architectural models. Along side with computers we produce accurate and neat technical information for construction.</i><br>",
+          "title5": "COMO FAZEMOS?<br><i style=\"font-weight: normal;\">how do we do it?</i>",
+          "caption5": "Cada cliente apresenta-nos uma intenção. O nosso objetivo é identificar o problema e resolvê-lo, indo ao encontro da intenção apresentada. O cliente faz parte do processo. Privilegiamos o trabalho manual através de desenhos, ilustrações e maquetes de modo a facilitar a compreensão das soluções desenvolvidas, antecipando desafios que poderão surgir em obra. Ao mesmo tempo utilizamos computadores para produzir informação técnica mais rigorosa e organizada para construção.\n<br>\n<br><i>Each client brings to us an intention. Our aim is to identify the problem and solve it moving towards the client's intention. \n<br>We develop our work with hand-crafted drawings, illustrations and architectural models. Along side with computers we produce accurate and neat technical information for construction.</i>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -4021,19 +4019,15 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
-          "_anchor": "content4-5z",
+          "_anchor": "content4-7j",
           "_styles": {
             "P": {
-              "font-size": "12px",
-              "text-align": "left"
+              "font-size": "12px"
             },
             ".mbr-section__col .mbr-header__text": {
-              "text-align": "left",
               "color": "#777777",
+              "text-align": "left",
               "font-size": "13px"
-            },
-            ".mbr-section-title .mbr-header__text": {
-              "text-align": "right"
             }
           }
         },
