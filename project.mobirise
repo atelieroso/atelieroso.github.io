@@ -3,7 +3,7 @@
     "name": "Atelier OSO",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 272,
+    "uniqCompNum": 277,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -532,8 +532,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/deck-1.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/biombo-1.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -582,6 +582,102 @@
               "text-align": "left"
             }
           }
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/noite-3.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rampa-1.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/deck-1.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/portes-1.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pavimento-1.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/biombo-1.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pavimento-4.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-7o"
         }
       ]
     },
@@ -1494,7 +1590,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/pia-1-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/interiores-5.jpg",
@@ -1523,6 +1619,62 @@
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fachada-6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fachada-6-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pavimento-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pavimento-1-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fachada-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fachada-4-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fachada-5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fachada-5-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/noite-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/noite-3-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/noite-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/noite-4-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/noite-6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/noite-6-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/noite-5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/noite-5-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
@@ -1570,81 +1722,6 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-5s"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": "3",
-            "paddingBottom": 3,
-            "noGutter": false,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#efefef",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/fachada-6.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fachada-6-800x532.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/pavimento-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pavimento-1-800x532.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/fachada-4.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fachada-4-800x532.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/fachada-5.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fachada-5-800x532.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/noite-4.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/noite-4-800x532.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/noite-6.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/noite-6-800x532.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/noite-5.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/noite-5-800x532.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/noite-3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/noite-3-800x532.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-5p"
         }
       ]
     },
@@ -2034,15 +2111,50 @@
             "bgColor": "#efefef",
             "images": [
               {
+                "image": "@PROJECT_PATH@/assets/images/antiga-6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/antiga-6-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/portes-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/portes-2-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/antiga-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/antiga-2-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/exteriores-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/exteriores-1-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ptio-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ptio-1-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-2480-1936x1288.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2480-1936x1288-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ptio-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ptio-3-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ptio-6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ptio-6-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -2055,22 +2167,15 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ptio-3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ptio-3-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/canteiro-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/canteiro-1-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ptio-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ptio-1-800x532.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/corredor-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/corredor-1-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pavimento-5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pavimento-5-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -2097,6 +2202,44 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-5l"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-7k"
         }
       ]
     },
@@ -2473,22 +2616,43 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/escadas-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/escadas-1-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/escadas-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/escadas-2-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ripas-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ripas-1-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cima-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cima-1-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/pavimento-2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pavimento-2-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pavimento-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pavimento-4-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/perspectiva-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/perspectiva-1-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/perspectiva-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/perspectiva-2-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/biombo-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/biombo-1-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -2498,7 +2662,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/pavimento-3-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/trio-1.jpg",
@@ -2508,15 +2672,22 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/paredes-2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/paredes-2-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/exterior-5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/exterior-5-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/exterior-2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/exterior-2-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/exterior-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/exterior-4-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/exterior-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/exterior-3-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -2529,6 +2700,44 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-5u"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-7l"
         }
       ]
     },
