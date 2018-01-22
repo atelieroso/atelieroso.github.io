@@ -1004,3 +1004,22 @@ H1 {
   font-family: 'Oxygen', sans-serif;
 }
 }
+
+
+#menu-7w .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-7w.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#menu-7w .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-7w .mbr-brand__name a {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+#menu-7w .mbr-navbar__items a {
+  font-size: 9px;
+  font-family: 'Oxygen', sans-serif;
+}
