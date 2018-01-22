@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 278,
     "versionPublish": "4.5.2",
@@ -911,7 +911,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "<a href=\"page4.html\" class=\"text-black\">RENOVAÇÃO DE VESTÍBULO</a>",
+          "title": "<a href=\"page4.html\" class=\"text-black\">RENOVAÇÃO DE&nbsp;ENTRADA</a>",
           "text": "<i>ENTRANCE RENOVATION</i>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
@@ -2224,7 +2224,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
-        "title": "RENOVAÇÃO DE VESTÍBULO",
+        "title": "RENOVAÇÃO DE ENTRADA",
         "order": 4
       },
       "components": [
@@ -2271,7 +2271,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.8"
           },
-          "title": "RENOVAÇÃO DE VESTÍBULO",
+          "title": "RENOVAÇÃO DE ENTRADA",
           "text": "<p>O acesso a este edifício de habitação era feito por um vestíbulo exterior coberto directamente para o espaço de circulação. A intenção do cliente seria ter um espaço onde houvesse uma espacialidade marcante na transição do exterior para o interior. Propõem-se a demolição parcial da parede exterior e a apropriação do átrio exterior que passa a espaço interior. A escolha da madeira e pedra naturais surgem na continuidade dos materiais existentes nos restantes espaços. Um biombo com ripas verticais faz a separação com a escada existente permitindo uma maior permeabilidade visual. O vestíbulo da casa, é um momento de pausa e contemplação onde o espaço, tempo e luz coabitam.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
