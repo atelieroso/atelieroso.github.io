@@ -403,6 +403,16 @@ undefined {
 }
 }
 
+#slider-11 {
+P {
+  font-size: 13px;
+  text-align: left;
+}
+H1 {
+  text-align: left;
+}
+}
+
 #menu-u {
 .mbr-brand__name {
   font-size: 16px;
@@ -425,17 +435,7 @@ undefined {
 }
 }
 
-#slider-11 {
-P {
-  font-size: 13px;
-  text-align: left;
-}
-H1 {
-  text-align: left;
-}
-}
-
-#slider-7r {
+#slider-7s {
 }
 
 
