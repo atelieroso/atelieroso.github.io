@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO",
-    "currentPage": "index.html",
+    "currentPage": "page 0.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 286,
     "versionPublish": "4.5.2",
@@ -18,7 +18,8 @@
     },
     "favicon": "@PROJECT_PATH@/assets/images/redondo-pequeno.png",
     "noImageResize": "true",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112806122-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-112806122-1');\r\n</script>\r\n"
   },
   "pages": {
     "page1.html": {
