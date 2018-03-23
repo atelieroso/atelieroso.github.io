@@ -24,7 +24,7 @@
   "pages": {
     "page1.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Projectos",
         "title": "PROJECTOS",
         "order": 2
       },
@@ -555,7 +555,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Reabilitação de Cozinha",
         "title": "REABILITAÇÃO DE COZINHA",
         "order": 3
       },
@@ -1105,7 +1105,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Reabilitação de espaço exterior",
         "title": "REABILITAÇÃO DE ESPAÇO EXTERIOR",
         "order": 4
       },
@@ -1623,7 +1623,7 @@
     },
     "page4.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Renovação de Entrada",
         "title": "RENOVAÇÃO DE ENTRADA",
         "order": 5
       },
@@ -2121,7 +2121,7 @@
     },
     "page5.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Cozinha",
         "title": "COZINHA",
         "order": 6
       },
@@ -2520,7 +2520,7 @@
     },
     "page6.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Mercado de Santa Clara",
         "title": "MERCADO DE SANTA CLARA",
         "order": 7
       },
@@ -2991,7 +2991,7 @@
     },
     "page7.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Largo da Feira da Malveira",
         "title": "LARGO DA FEIRA DA MALVEIRA",
         "order": 8
       },
@@ -3449,7 +3449,7 @@
     },
     "page8.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "Sobre",
         "title": "SOBRE",
         "order": 9
       },
@@ -3543,7 +3543,7 @@
             }
           },
           "title3": "MOTIVAÇÃO<br><i style=\"font-weight: normal;\">motivation</i>",
-          "caption3": "Cada projeto começa sempre como algo novo e inquietante. E é essa inquietação que nos move. Questionamos as soluções tendo em conta o lugar, o desejo do cliente, as condicionantes financeiras e desenvolvemos os projetos como se fossem para nós habitarmos.\n<br>\n<br><i>Each project begins as something new and disquieting. It is the disquietingness that moves us.\n<br>We questioned solutions considering the place, client's desire and economic constrains. We develop the project as if we would live in it.</i>",
+          "caption3": "Cada projeto começa sempre como algo novo e inquietante. E é essa inquietação que nos move. Questionamos as soluções tendo em conta o lugar, o desejo do cliente, as condicionantes financeiras e desenvolvemos os projetos como se fossem para nós habitarmos.\n<br>\n<br><i>Each project begins as something new and disquieting. It is the disquietingness that moves us.\n<br>We questioned solutions considering the place, client's desire and economic constraints. We develop the project as if we would live in it.</i>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -3681,7 +3681,7 @@
     },
     "page9.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "Bio",
         "title": "BIO",
         "order": 10
       },
@@ -3935,7 +3935,7 @@
     },
     "page10.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "Contacto",
         "title": "CONTACTO",
         "order": 11
       },
@@ -3954,8 +3954,8 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "text1": "<b>MORADA</b><br>Rua dos Bombeiros Voluntários nº6<br>2655-246 Ericeira<br><br>\n<strong>CONTACTO</strong><br>\nEmail: contacto.atelieroso@gmail.com<br>Telefone: 917 031 013<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://divisare.com/authors/2144696081-atelier-oso\" target=\"_blank\" class=\"text-gray\">DIVISARE</a></li><li><a href=\"http://www.archilovers.com/teams/673034/atelier-oso.html#projects\" target=\"_blank\" class=\"text-gray\">Archilovers</a></li><li><a href=\"https://www.homify.pt/profissionais/4697087/atelier-oso\" target=\"_blank\" class=\"text-gray\">Homify</a></li></ul>",
+          "text1": "<b>MORADA</b><br>Rua dos Bombeiros Voluntários nº6<br>2655-246 Ericeira<br><br>\n<strong>CONTACTO</strong><br>\nEmail: contacto.atelieroso@gmail.com<br>Telefone: 96 396 06 28<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://divisare.com/authors/2144696081-atelier-oso\" target=\"_blank\" class=\"text-gray\">DIVISARE</a></li><li><a href=\"http://www.archilovers.com/teams/673034/atelier-oso.html#projects\" target=\"_blank\" class=\"text-gray\">Archilovers</a></li><li><a href=\"https://www.homify.pt/livros_de_ideias/4734412/um-velho-anexo-de-30-m-que-se-tornou-numa-cozinha-encantadora\" target=\"_blank\" class=\"text-gray\">Homify</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "contacto.atelieroso@gmail.com",
@@ -4169,7 +4169,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Atelier OSO",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -4731,7 +4731,7 @@
     },
     "index.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Atelier OSO",
         "title": "PÁGINA DE ENTRADA",
         "order": 1
       },
