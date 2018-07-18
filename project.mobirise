@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "Atelier OSO",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 286,
-    "versionPublish": "4.5.2",
+    "uniqCompNum": 287,
+    "versionPublish": "4.8.1",
     "theme": {
       "additionalSetColors": [
         "#222222",
@@ -19,7 +19,9 @@
     "favicon": "@PROJECT_PATH@/assets/images/redondo-pequeno.png",
     "noImageResize": "true",
     "path": "@PROJECT_PATH@",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112806122-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-112806122-1');\r\n</script>\r\n"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112806122-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-112806122-1');\r\n</script>\r\n",
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "page1.html": {
@@ -3723,7 +3725,7 @@
           },
           "title": "FILIPE RAPOSO CARDOSO",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>Nascido em Lisboa, 1985\n</b></p><p>Born in Lisbon, Portugal, 1985&nbsp;</p><p><b>\nArquitecto pela Universidade Autónoma de Lisboa, 2009&nbsp;</b></p><p>\nGraduated at Universidade Autónoma de Lisboa, 2009&nbsp;</p><p><b>\nMembro da Ordem dos Arquitectos nº19164, desde 2010&nbsp;</b></p><p>\nRegistered architect at OASRS nº19164, since 2010</p><p><br></p>",
+          "text": "<p><b>Nascido em Lisboa, 1985\n</b></p><p>Born in Lisbon, Portugal, 1985&nbsp;</p><p><b>\nArquitecto pela Universidade Autónoma de Lisboa, 2009&nbsp;</b></p><p>\nGraduated at Universidade Autónoma de Lisboa, 2009&nbsp;</p><p><b>\nMembro da Ordem dos Arquitectos nº19614, desde 2010&nbsp;</b></p><p>\nRegistered architect at OASRS nº19614, since 2010</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
