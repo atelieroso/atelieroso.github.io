@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO (novo)",
-    "currentPage": "page2.html",
+    "currentPage": "sobre.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1490,7 +1490,7 @@
               "color": "#ffffff"
             },
             ".mbr-text P": {
-              "color": "#767676",
+              "color": "#ffffff",
               "text-align": "left"
             }
           },
@@ -2110,7 +2110,7 @@
               "color": "#ffffff"
             },
             ".mbr-text P": {
-              "color": "#767676",
+              "color": "#ffffff",
               "text-align": "left"
             }
           },
@@ -2333,7 +2333,7 @@
             }
           },
           "_name": "content7",
-          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"200\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\"><br>&nbsp; &nbsp; <a href=\"page2.html\" class=\"text-black\">SOMMER PAVILION</a><br>&nbsp; &nbsp; <a href=\"page6.html\" class=\"text-black\">COZINHA</a><i><a href=\"page6.html\" class=\"text-black\">&nbsp;</a></i><br>&nbsp; &nbsp; BAR BOARDRIDERS<br>&nbsp; &nbsp; MERCADO DE SANTA CLARA<br>&nbsp; &nbsp; LARGO DA FEIRA<br>&nbsp; &nbsp; ENTRADA<br>&nbsp; &nbsp; EXTERIOR<br>&nbsp; &nbsp; ANEXO<br><br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/4-848x564.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"200\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\"><br>&nbsp; &nbsp; SOMMER PAVILION<br>&nbsp; &nbsp; BAR BOARDRIDERS<i><a href=\"page6.html\" class=\"text-black\">&nbsp;</a></i><br>&nbsp; &nbsp; <a href=\"page14.html\" class=\"text-black\">COZINHA</a><br>&nbsp; &nbsp; <a href=\"page10.html\" class=\"text-black\">MERCADO DE SANTA CLARA</a><br>&nbsp; &nbsp; <a href=\"page13.html\" class=\"text-black\">LARGO DA FEIRA&nbsp;DA MALVEIRA</a><br>&nbsp; &nbsp; <a href=\"page11.html\" class=\"text-black\">ENTRADA</a><br>&nbsp; &nbsp; <a href=\"page12.html\" class=\"text-black\">EXTERIOR</a><br>&nbsp; &nbsp; <a href=\"page9.html\" class=\"text-black\">ANEXO</a><br><br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/4-848x564.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content7-2g",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -3343,7 +3343,7 @@
             }
           },
           "_name": "content7",
-          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"65\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#d2c6c1\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\"><br>&nbsp; &nbsp; LISBOA, 1985<br>&nbsp; &nbsp; MESTRADO INTEGRADO EM ARQUITETURA DA/UAL, 2009<br>&nbsp; &nbsp; MEMBRO DA OASRS Nº19614<br>&nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; ARX PORTUGAL, LISBOA 2010-2012<br>&nbsp; &nbsp; AHMM, LONDRES, 2013-2015<br>&nbsp; &nbsp; MACCREANOR LAVINGTON, LONDRES, 2014<br>&nbsp; &nbsp; FLETCHER PRIEST, LONDRES, 2015<br>&nbsp; &nbsp; ARIPA, LISBOA, 2016<br><br>&nbsp; &nbsp; 1º LUGAR CONCURSO DE IDEIAS <br>&nbsp; &nbsp; REABILITAÇÃO E REVITALIZAÇÃO DO LARGO DA FEIRA DA MALVEIRA <br>&nbsp; &nbsp; E DA AVENIDA JOSÉ BATISTA ANTUNES, 2016<br>&nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; 1º LUGAR PRÉMIO AICO, CATEGORIA ESTUDANTE, 2011<br><br>&nbsp; &nbsp; FINALISTA PRÉMIO SECIL UNIVERSIDADES, 2010<br><br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/filipe-cardoso-pb-436x5813.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"65\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#d2c6c1\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\"><br>&nbsp; &nbsp; LISBOA, 1985<br>&nbsp; &nbsp; MESTRADO INTEGRADO EM ARQUITETURA DA/UAL, 2009<br>&nbsp; &nbsp; MEMBRO DA OASRS Nº19614<br>&nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; ARX PORTUGAL, LISBOA 2010-2012<br>&nbsp; &nbsp; AHMM, LONDRES, 2013-2015<br>&nbsp; &nbsp; MACCREANOR LAVINGTON, LONDRES, 2014<br>&nbsp; &nbsp; FLETCHER PRIEST, LONDRES, 2015<br>&nbsp; &nbsp; ARIPA, LISBOA, 2016<br><br>&nbsp; &nbsp; 1º LUGAR CONCURSO DE IDEIAS <br>&nbsp; &nbsp; REABILITAÇÃO E REVITALIZAÇÃO DO LARGO DA FEIRA DA MALVEIRA <br>&nbsp; &nbsp; E DA AVENIDA JOSÉ BATISTA ANTUNES, 2016<br>&nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; 1º LUGAR PRÉMIO AICO, CATEGORIA ESTUDANTE, 2011<br><br>&nbsp; &nbsp; FINALISTA PRÉMIO SECIL UNIVERSIDADES, 2010<br><br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/filipe-cardoso-pb-436x5814.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "qYawMaAbWJ",
@@ -3407,7 +3407,7 @@
             }
           },
           "_name": "content7",
-          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"200\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\"><br>&nbsp; &nbsp;&nbsp;<a href=\"page2.html\" class=\"text-black\">SOMMER PAVILION</a><br>&nbsp; &nbsp;&nbsp;<a href=\"page6.html\" class=\"text-black\">COZINHA</a><i><a href=\"page6.html\" class=\"text-black\">&nbsp;</a></i><br>&nbsp; &nbsp; BAR BOARDRIDERS<br>&nbsp; &nbsp; MERCADO DE SANTA CLARA<br>&nbsp; &nbsp; LARGO DA FEIRA<br>&nbsp; &nbsp; ENTRADA<br>&nbsp; &nbsp; EXTERIOR<br>&nbsp; &nbsp; ANEXO<br><br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/8-848x564.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"200\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\"><br>&nbsp; &nbsp;&nbsp;SOMMER PAVILION<br>&nbsp; &nbsp; BAR BOARDRIDERS<br>&nbsp; &nbsp; <a href=\"page14.html\" class=\"text-black\">COZINHA</a><br>&nbsp; &nbsp; <a href=\"page10.html\" class=\"text-black\">MERCADO DE SANTA CLARA</a><br>&nbsp; &nbsp; <a href=\"page13.html\" class=\"text-black\">LARGO DA FEIRA DA MALVEIRA</a><br>&nbsp; &nbsp; <a href=\"page11.html\" class=\"text-black\">ENTRADA</a><br>&nbsp; &nbsp; <a href=\"page12.html\" class=\"text-black\">EXTERIOR</a><br>&nbsp; &nbsp; <a href=\"page9.html\" class=\"text-black\">ANEXO</a><br><br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/8-848x564.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content7-38",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -3459,7 +3459,7 @@
               "color": "#ffffff"
             },
             ".mbr-text P": {
-              "color": "#767676",
+              "color": "#ffffff",
               "text-align": "left"
             }
           },
@@ -3691,7 +3691,7 @@
               "color": "#ffffff"
             },
             ".mbr-text P": {
-              "color": "#767676",
+              "color": "#ffffff",
               "text-align": "left"
             }
           },
@@ -7995,7 +7995,7 @@
               "color": "#ffffff"
             },
             ".mbr-text P": {
-              "color": "#767676",
+              "color": "#ffffff",
               "text-align": "left"
             }
           },
