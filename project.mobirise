@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO (novo)",
-    "currentPage": "sobre.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 251,
+    "uniqCompNum": 252,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -3266,16 +3266,16 @@
               "color": "#ffffff"
             },
             ".mbr-text P": {
-              "color": "#ffffff",
+              "color": "#767676",
               "text-align": "left"
             }
           },
           "_name": "content3",
           "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>Anexo ao edifício de habitação, uma pequena cozinha de apoio encontrava-se num estado devoluto e sem utilização. No seu interior, um forno de tijolo e uma churrasqueira ligados por uma chaminé suscitam o interesse em recuperar a pequena construção ao invés de a demolir. Procede-se somente à demolição de edificações anexas, mantendo e isolando a volumetria existente da cozinha. São introduzidos dois novos vãos pequenos a nascente e a poente e um vão grande a norte que garantem melhor iluminação e uma previligiada relação com o exterior. O interior antes compartimentado, passa a ser um único espaço aberto. Recuperam-se a churrasqueira e o forno a lenha e é introduzida uma casa de banho de apoio. Os novos móveis e bancada de cozinha complementam o conjunto.</p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><i>Next to the main building, a small construction that once was a kitchen is now abandoned. Inside it, a wood-fired oven and a barbecue connected by a chimney triggered the intention of renovating rather than demolishing the small construction. The attached constructions are removed, therefore isolate the existing kitchen block. By creating three new openings the natural light and the connection to the exterior are thoroughly improved. Inside the new building a single open space is now releaved, where once was split into two spaces. The wood-fired oven and the barbecue are renovated and a toilet cubicle is installed. The new kitchen furniture complement the all set.</i></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content3-6d",
+          "_anchor": "content3-6z",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "qYqLTp69Th",
+          "_cid": "qYCNqVeLKo",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
