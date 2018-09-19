@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO (novo)",
-    "currentPage": "sobre.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 252,
+    "uniqCompNum": 264,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-pequeno-e-mail-128x129.png",
@@ -352,7 +352,7 @@
                 "title": "ATELIER OSO",
                 "overlay": false,
                 "contentAlign": "right",
-                "text": "Rua dos Bombeiros Voluntários nº6 1ºC \n<br>2655-246 Ericeira\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
+                "text": "Avenida 9 de Julho nº105 1ºC \n<br>2665-519 Venda do Pinheiro\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
                 "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>"
               },
               {
@@ -369,7 +369,7 @@
                 "title": "ATELIER OSO",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Rua dos Bombeiros Voluntários nº6 1ºC \n<br>2655-246 Ericeira\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
+                "text": "Avenida 9 de Julho nº105 1ºC \n<br>2665-519 Venda do Pinheiro\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
                 "overlayOpacity": "0.2",
                 "overlayColor": "#000000"
@@ -388,7 +388,7 @@
                 "title": "ATELIER OSO",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Rua dos Bombeiros Voluntários nº6 1ºC \n<br>2655-246 Ericeira\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
+                "text": "Avenida 9 de Julho nº105 1ºC \n<br>2665-519 Venda do Pinheiro<br>963960628 \n<br>contacto.atelieroso@gmail.com",
                 "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
                 "overlayOpacity": "0.2"
               },
@@ -406,7 +406,7 @@
                 "title": "ATELIER OSO",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Rua dos Bombeiros Voluntários nº6 1ºC \n<br>2655-246 Ericeira\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
+                "text": "Avenida 9 de Julho nº105 1ºC \n<br>2665-519 Venda do Pinheiro\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
                 "overlayOpacity": "0.4"
               },
@@ -424,7 +424,7 @@
                 "title": "ATELIER OSO",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Rua dos Bombeiros Voluntários nº6 1ºC \n<br>2655-246 Ericeira\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
+                "text": "Avenida 9 de Julho nº105 1ºC \n<br>2665-519 Venda do Pinheiro\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
                 "overlayOpacity": "0.3"
               }
@@ -1608,7 +1608,7 @@
       "settings": {
         "meta_descr": "Sobre",
         "title": "SOBRE",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2074,7 +2074,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "CONTACTO",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2565,7 +2565,7 @@
             }
           },
           "_name": "image4",
-          "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"166\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\">\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"mailto:contacto.atelieroso@gmail.com\"><img src=\"@PROJECT_PATH@/assets/images/thumbnail-e-mail-e-telefone-500x500.jpg\" alt=\"Projectos/Projects\" title=\"Projectos/Projects\"></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-4\"><b>\n                            Projectos</b><b><br></b>Work</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"https://www.google.com/maps/place/Atelier+OSO+Arquitetura/@38.9656341,-9.4178127,17z/data=!3m1!4b1!4m5!3m4!1s0xd1f270bdc6a82b1:0x6062f5e31d2c41a0!8m2!3d38.9656299!4d-9.415624\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/thumbnail-morada-468x468.jpg\" alt=\"Sobre/About\" title=\"Sobre/About\"></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-4\"><b>Sobre</b><br>About</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"96\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\">\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"mailto:contacto.atelieroso@gmail.com\"><img src=\"@PROJECT_PATH@/assets/images/thumbnail-morada-700x700.jpg\" alt=\"Projectos/Projects\" title=\"Projectos/Projects\"></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-4\"><b>\n                            Projectos</b><b><br></b>Work</p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"https://www.google.com/maps/place/Atelier+OSO+Arquitetura/@38.9656341,-9.4178127,17z/data=!3m1!4b1!4m5!3m4!1s0xd1f270bdc6a82b1:0x6062f5e31d2c41a0!8m2!3d38.9656299!4d-9.415624\"><img src=\"@PROJECT_PATH@/assets/images/thumbnail-e-mail-e-telefone-500x500.jpg\" alt=\"Sobre/About\" title=\"Sobre/About\"></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-4\"><b>Sobre</b><br>About</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "image4-6y",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -2669,7 +2669,7 @@
       "settings": {
         "meta_descr": "Sobre",
         "title": "CV",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
