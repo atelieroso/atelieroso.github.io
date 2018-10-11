@@ -5679,8 +5679,20 @@ body {
 .cid-qYmVFqqlxB .dropdown-item:hover {
   color: #cccccc !important;
 }
-.cid-r6byn0qUqa {
+.cid-r6bE6JGesD {
   padding-top: 30px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-r6bE6JGesD .mbr-text {
+  color: #ffffff;
+}
+.cid-r6bE6JGesD .mbr-text P {
+  color: #767676;
+  text-align: left;
+}
+.cid-r6byn0qUqa {
+  padding-top: 0px;
   padding-bottom: 75px;
   background: #ffffff;
 }
