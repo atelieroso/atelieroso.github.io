@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO (novo)",
-    "currentPage": "Anexo.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -9073,26 +9073,8 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3115-2000x1500.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "ATELIER OSO",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Avenida 9 de Julho nº105 1ºC \n<br>2665-519 Venda do Pinheiro\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
-                "overlayOpacity": "0.3"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/noite-1-1936x1288.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -9108,7 +9090,7 @@
                 "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/rampa-1-1936x1288.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3115-2000x1500.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -9123,8 +9105,7 @@
                 "contentAlign": "right",
                 "text": "Avenida 9 de Julho nº105 1ºC \n<br>2665-519 Venda do Pinheiro\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
-                "overlayOpacity": "0.2",
-                "overlayColor": "#000000"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/biombo-1-1936x1288.jpg",
