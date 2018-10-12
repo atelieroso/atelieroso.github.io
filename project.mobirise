@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO (novo)",
-    "currentPage": ".html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8847,7 +8847,7 @@
         }
       ]
     },
-    ".html": {
+    "Home.html": {
       "settings": {
         "main": true,
         "title": "Atelier OSO Arquitetura",
