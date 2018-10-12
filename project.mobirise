@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO (novo)",
-    "currentPage": "Cozinha.html",
+    "currentPage": "Projetos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8235,7 +8235,7 @@
             }
           },
           "_name": "image4",
-          "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"123\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page10.html\"><img src=\"@PROJECT_PATH@/assets/images/imagem-sntese-1086x723.jpg\" alt=\"Projectos/Projects\" title=\"Projectos/Projects\"></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-4\"><b><a href=\"page10.html\" class=\"text-black\"><b>Mercado de Santa Clara</b></a><br></b><a href=\"page10.html\" class=\"text-black\">Santa Clara's Market</a></p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"page14.html\"><img src=\"@PROJECT_PATH@/assets/images/img-2868-642x417.jpg\" alt=\"Sobre/About\" title=\"Sobre/About\"></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-4\"><b><a href=\"page14.html\" class=\"text-black\"><b>Renovação de cozinh</b></a>a</b><br><a href=\"page14.html\" class=\"text-black\">Kitchen refurbishment</a></p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"123\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"page10.html\"><img src=\"@PROJECT_PATH@/assets/images/imagem-sntese-1086x723.jpg\" alt=\"Projectos/Projects\" title=\"Projectos/Projects\"></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-4\"><b><a href=\"Mercado.html\" class=\"text-black\"><b>Mercado de Santa Clara</b></a><br></b><a href=\"Mercado.html\" class=\"text-black\">Santa Clara's Market</a></p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"Cozinha.html\"><img src=\"@PROJECT_PATH@/assets/images/img-2868-642x417.jpg\" alt=\"Sobre/About\" title=\"Sobre/About\"></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-4\"><b><a href=\"Cozinha.html\" class=\"text-black\"><b>Renovação de cozinh</b>a</a></b><br><a href=\"Cozinha.html\" class=\"text-black\">Kitchen refurbishment</a></p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_anchor": "image4-6p",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -9131,7 +9131,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Avenida 9 de Julho nº105 1ºC \n<br>2665-519 Venda do Pinheiro\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"Projetos.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
                 "overlayOpacity": "0.3"
               },
               {
@@ -9149,7 +9149,7 @@
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Avenida 9 de Julho nº105 1ºC \n<br>2665-519 Venda do Pinheiro\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
-                "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>"
+                "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"Projetos.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/biombo-1-1936x1288.jpg",
@@ -9166,7 +9166,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Avenida 9 de Julho nº105 1ºC \n<br>2665-519 Venda do Pinheiro<br>963960628 \n<br>contacto.atelieroso@gmail.com",
-                "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
+                "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"Projetos.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
                 "overlayOpacity": "0.2"
               },
               {
@@ -9184,7 +9184,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Avenida 9 de Julho nº105 1ºC \n<br>2665-519 Venda do Pinheiro\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"Projetos.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
                 "overlayOpacity": "0.4"
               },
               {
@@ -9202,7 +9202,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Avenida 9 de Julho nº105 1ºC \n<br>2665-519 Venda do Pinheiro\n<br>963960628 \n<br>contacto.atelieroso@gmail.com",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"Projetos.html\" data-toolbar=\"-mbrBtnMove\">ENTRAR enter</a>",
                 "overlayOpacity": "0.3"
               }
             ]
