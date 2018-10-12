@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO (novo)",
-    "currentPage": ".html",
+    "currentPage": "Index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 289,
+    "uniqCompNum": 290,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-pequeno-e-mail-128x129.png",
@@ -76,7 +76,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -929,7 +929,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1782,7 +1782,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -2676,7 +2676,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -3488,7 +3488,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -4380,7 +4380,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -5378,7 +5378,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -6082,7 +6082,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Sobre",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -6548,7 +6548,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Curriculum Vitae",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -7024,7 +7024,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Contacto",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -7622,7 +7622,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -8315,7 +8315,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -8847,7 +8847,7 @@
         }
       ]
     },
-    ".html": {
+    "Home.html": {
       "settings": {
         "main": true,
         "title": "Atelier OSO Arquitetura",
