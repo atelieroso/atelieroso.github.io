@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO (novo)",
-    "currentPage": "Home.html",
+    "currentPage": "Cozinha.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 288,
+    "uniqCompNum": 289,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-pequeno-e-mail-128x129.png",
@@ -5911,11 +5911,11 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>A cozinha existente desenvolve-se em \"U\". Os armários são de madeira maciça com um desenho desactualizado. Funciona em espaço aberto para a sala de refeições e tem pouca iluminação natural. O cliente pretendia uma cozinha com uma imagem contemporânea onde através da forma e materialidade se conseguisse ter mais luz natural.&nbsp;</p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><i>The existing kitchen has a \"U\" shape. The furniture is made of solid timber with an out dated design. Consists on an open space connected with the dinner area and lacks natural light. The cliente intended a contemporay kitchen where shape and materiality could bring more light.</i></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content3-7z",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>A cozinha existente desenvolve-se em \"U\". Os armários são de madeira maciça com um desenho desactualizado. Funciona em espaço aberto para a sala de refeições e tem pouca iluminação natural. O cliente pretendia uma cozinha com uma imagem contemporânea onde através da forma e materialidade se conseguisse ter mais luz natural.&nbsp;</p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><i>The existing kitchen has a \"U\" shape. The furniture is made of solid timber with an out dated design. Consists on an open space connected with the dinner area and lacks natural light. The cliente intended a contemporay kitchen where shape and materiality could bring more light.</i></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content3-80",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "r6bE6JGesD",
+          "_cid": "r6ghH1SwgH",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
