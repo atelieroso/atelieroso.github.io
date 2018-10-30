@@ -7185,7 +7185,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/detalhe-bancada-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -7202,7 +7202,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-8386-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
