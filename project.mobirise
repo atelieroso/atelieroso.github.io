@@ -8722,7 +8722,7 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-4",
                 "customStyle3": "display-4",
-                "title": "<a href=\"page42.html\" class=\"text-white\"><b>Atelier OSO</b></a><br><a href=\"page42.html\" class=\"text-white\">Arquitetura</a><br><br>",
+                "title": "<a href=\"indice.html\" class=\"text-white\"><b>Atelier OSO</b></a><br><a href=\"indice.html\" class=\"text-white\">Arquitetura</a><br><br>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Av. 9 de Julho 105 1º c, \n<br>2665-519 Venda do Pinheiro \n<br>963 960 628 \n<br>contacto.atelieroso@gmail.com<br>",
@@ -8740,7 +8740,7 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-4",
                 "customStyle3": "display-4",
-                "title": "<a href=\"page42.html\" class=\"text-white\"><b>Atelier OSO</b></a><a href=\"page42.html\">\n</a><div><a href=\"page42.html\" class=\"text-white\">Arquitetura</a></div><div><br></div>",
+                "title": "<a href=\"indice.html\" class=\"text-white\"><b>Atelier OSO</b></a><a href=\"page42.html\">\n</a><div><a href=\"indice.html\" class=\"text-white\">Arquitetura</a></div><div><br></div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Av. 9 de Julho 105 1º c, \n<br>2665-519 Venda do Pinheiro \n<br>963 960 628 \n<br>contacto.atelieroso@gmail.com",
@@ -8758,7 +8758,7 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-4",
                 "customStyle3": "display-4",
-                "title": "<b>Atelier OSO</b><br><a href=\"page42.html\" class=\"text-white\">Arquitetura</a><a href=\"page42.html\" class=\"text-white\"><br></a><br>",
+                "title": "<a href=\"indice.html\" class=\"text-white\"><b>Atelier OSO</b></a><br><a href=\"indice.html\" class=\"text-white\">Arquitetura</a><a href=\"page42.html\" class=\"text-white\"><br></a><br>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Av. 9 de Julho 105 1º c, &nbsp;<br>2665-519 Venda do Pinheiro \n<br>963 960 628 \n<br>contacto.atelieroso@gmail.com",
@@ -8776,7 +8776,7 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-4",
                 "customStyle3": "display-4",
-                "title": "<a href=\"page42.html\" class=\"text-white\"><b>Atelier OSO</b></a><a href=\"page42.html\">\n</a><div><a href=\"page42.html\" class=\"text-white\">Arquitetura</a></div><div><br></div>",
+                "title": "<a href=\"indice.html\" class=\"text-white\"><b>Atelier OSO</b>\n</a><div><a href=\"indice.html\" class=\"text-white\">Arquitetura</a></div><div><br></div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Av. 9 de Julho 105 1º c,&nbsp;<br>2665-519 Venda do Pinheiro \n<br>963 960 628 \n<br>contacto.atelieroso@gmail.com",
@@ -8794,7 +8794,7 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-4",
                 "customStyle3": "display-4",
-                "title": "<a href=\"page42.html\" class=\"text-white\"><b>Atelier OSO</b></a><a href=\"page42.html\">\n</a><div><a href=\"page42.html\" class=\"text-white\">Arquitetura</a></div><div><a href=\"page42.html\" class=\"text-white\"><br></a></div>",
+                "title": "<a href=\"indice.html\" class=\"text-white\"><b>Atelier OSO</b>\n</a><div><a href=\"indice.html\" class=\"text-white\">Arquitetura</a></div><div><a href=\"page42.html\" class=\"text-white\"><br></a></div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Av. 9 de Julho 105 1º c, &nbsp;<br>2665-519 Venda do Pinheiro \n<br>963 960 628 \n<br>contacto.atelieroso@gmail.com",
@@ -31555,9 +31555,9 @@
         }
       ]
     },
-    "page42.html": {
+    "indice.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "projetos work | sobre about | curriculum vitae | simulador simulator | contacto contact",
         "title": "Índice",
         "order": 1
       },
