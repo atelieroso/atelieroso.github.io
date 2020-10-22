@@ -33,9 +33,6 @@
 		<loc>http://atelieroso.site/Largo-da-Feira-da-Malveira.html</loc>
 	</url>
 	<url>
-		<loc>http://atelieroso.site/Renovação-de-Anexo.html</loc>
-	</url>
-	<url>
 		<loc>http://atelieroso.site/page14.html</loc>
 	</url>
 	<url>
@@ -127,5 +124,8 @@
 	</url>
 	<url>
 		<loc>http://atelieroso.site/indice.html</loc>
+	</url>
+	<url>
+		<loc>http://atelieroso.site/Anexo.html</loc>
 	</url>
 </urlset>
